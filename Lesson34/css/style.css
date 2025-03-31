@@ -1,0 +1,31 @@
+div {
+    font-size: 20px;
+}
+
+.block1 {
+    font-family: "Open Sans", serif;
+    font-weight: 300px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.block2 {
+    text-decoration: line-through;
+    font-weight: 700px;
+}
+
+.block3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.block4 {
+    text-decoration: overline wavy;
+    color: rgb(46, 11, 110);
+    word-spacing: 30px;
+}
+
+.block5 {
+    text-decoration: underline double;
+    letter-spacing: 5px;
+}
