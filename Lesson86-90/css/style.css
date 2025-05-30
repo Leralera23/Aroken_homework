@@ -148,6 +148,8 @@ body {
     max-width: 288px;
     background: #d0dce7;
     border-radius: 100px;
+    
+    transition: all 0.3s ease;
 }
 
 .button:hover {
